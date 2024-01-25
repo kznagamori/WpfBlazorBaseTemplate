@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 
-namespace ___PROJECTNAME___ {
+namespace ___PROJECTNAME___.Components.Pages {
 
     public partial class Main
     {
